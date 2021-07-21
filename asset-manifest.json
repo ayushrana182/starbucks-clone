@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starbucks-clone/static/css/main.bb4bafb5.chunk.css",
+    "main.js": "/starbucks-clone/static/js/main.1c057ead.chunk.js",
+    "main.js.map": "/starbucks-clone/static/js/main.1c057ead.chunk.js.map",
+    "runtime-main.js": "/starbucks-clone/static/js/runtime-main.fc8d136c.js",
+    "runtime-main.js.map": "/starbucks-clone/static/js/runtime-main.fc8d136c.js.map",
+    "static/js/2.5f889678.chunk.js": "/starbucks-clone/static/js/2.5f889678.chunk.js",
+    "static/js/2.5f889678.chunk.js.map": "/starbucks-clone/static/js/2.5f889678.chunk.js.map",
+    "index.html": "/starbucks-clone/index.html",
+    "static/css/main.bb4bafb5.chunk.css.map": "/starbucks-clone/static/css/main.bb4bafb5.chunk.css.map",
+    "static/js/2.5f889678.chunk.js.LICENSE.txt": "/starbucks-clone/static/js/2.5f889678.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8d136c.js",
+    "static/js/2.5f889678.chunk.js",
+    "static/css/main.bb4bafb5.chunk.css",
+    "static/js/main.1c057ead.chunk.js"
+  ]
+}
